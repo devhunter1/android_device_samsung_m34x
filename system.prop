@@ -1,4 +1,7 @@
+ro.display.series=Samsung Galaxy M34 5G
+ro.product.board=s5e8825
 sys.usb.controller=13200000.dwc3
 ro.board.platform=universal8825
 ro.boot.dynamic_partitions=true
 sys.usb.config=mtp
+ro.boot.boot_devices=13500000.ufs
