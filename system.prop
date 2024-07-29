@@ -1,0 +1,4 @@
+sys.usb.controller=13200000.dwc3
+ro.board.platform=universal8825
+ro.boot.dynamic_partitions=true
+sys.usb.config=mtp
